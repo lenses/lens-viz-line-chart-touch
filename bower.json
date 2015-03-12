@@ -1,14 +1,14 @@
 {
-  "name": "th-line-graph-touch",
+  "name": "lens-viz-line-chart-touch",
   "version": "0.0.0",
   "keywords": [
-    "seed",
+    "lenses",
     "polymer",
     "web-components"
   ],
-  "main": "th-line-graph-touch.html",
+  "main": "lens-viz-line-chart-touch.html",
   "dependencies": {
     "polymer": "Polymer/polymer#~0.5.1",
-    "th-d3-chart": "https://github.com/thelmanews/th-d3-chart.git"
+    "th-d3-chart": "thelmanews/th-d3-chart"
   }
 }
